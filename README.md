@@ -1,5 +1,5 @@
 # Data_Cleaning
-## Task 1: Data cleaning and preprocessing using mymoviedb dataset 
+##Data cleaning and preprocessing using mymoviedb dataset 
 
 ##Objective:
 The objective of this task was to clean and preprocess a raw dataset by identifying and handling common data quality issues such as missing values, duplicate records, inconsistent column names, and incorrect data types.
